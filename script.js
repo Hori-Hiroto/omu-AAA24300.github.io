@@ -19,4 +19,4 @@ function updateClock() {
 setInterval(updateClock, 1000);
         
 // ページ読み込み時に即座に表示
-window.onload = updateClock;alert('こんにちは！');
+window.onload = updateClock;
